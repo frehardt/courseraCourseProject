@@ -118,4 +118,4 @@ for (i in 1:nS) {
 }
 
 
-write.table(td, "tidyData2.txt")
+write.table(td, "tidyDataFinal.txt")
